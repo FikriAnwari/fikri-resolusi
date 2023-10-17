@@ -4,3 +4,4 @@ ini branch baru
 ini akan coba
 dimasukkan ke main branch
 ^ nanti belajar github lagi
+^ belajar blender
