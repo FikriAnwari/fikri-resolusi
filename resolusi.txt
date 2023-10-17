@@ -2,3 +2,5 @@ ini untuk belajar github
 
 Resolusi
 -Membuat aplikasi / web yang bisa membuat objek 3D dengan control wasd dan mudah
+-Belajar mekanisme complaint
+-membuat mie
